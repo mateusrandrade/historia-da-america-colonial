@@ -6,4 +6,4 @@ Introduzir a História da América como um problema historiográfico, utilizando
 
 ---
 
-[Aulas](README.md) | [Cronograma](../cronograma.md) | [Página inicial](../README.md)
+[Aulas](README.md) | [Próxima aula](aula-02.md) | [Cronograma](../cronograma.md) | [Página inicial](../README.md)
