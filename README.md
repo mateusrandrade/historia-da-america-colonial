@@ -5,7 +5,7 @@
 **Departamento de História**  
 **2026-3**
 
-Este é o repositório da disciplina **História da América I**. Aqui estão reunidos o plano de ensino, o cronograma, as avaliações, os planos das aulas e os materiais de apoio utilizados ao longo do semestre.
+Este é o repositório da disciplina **História da América I**. Aqui estão reunidos o plano de ensino, o cronograma, as avaliações e os planos das aulas utilizados ao longo do semestre.
 
 ## Navegação
 
@@ -14,7 +14,6 @@ Este é o repositório da disciplina **História da América I**. Aqui estão re
 - [Avaliações](avaliacoes/)
 - [Aulas](aulas/)
 - [Atividade Wikipédia](avaliacoes/avaliacao-2-wikipedia.md)
-- [Materiais](materiais/)
 
 ## Estrutura da disciplina
 
