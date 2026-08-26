@@ -15,6 +15,9 @@ VARELLA, Flávia Florentino; BONALDO, Rodrigo Bragio. Todos podem ser divulgador
 VARELLA, Flávia Florentino; BONALDO, Rodrigo Bragio. Negociando autoridades, construindo saberes: a historiografia digital e colaborativa no projeto Teoria da História na Wikipédia. *Revista Brasileira de História*, v. 40, n. 85, p. 147–170, dez. 2020. 
 - Link: https://doi.org/10.1590/1806-93472020v40n85-08
 
+ARAUJO, Valdei Lopes de. O DIREITO À HISTÓRIA: O(A) HISTORIADOR(A) COMO CURADOR(A) DE UMA EXPERIÊNCIA HISTÓRICA SOCIALMENTE DISTRIBUÍDA. In: *Conversas sobre o Brasil*. 1. ed. Salvador, BA: Géssica Guimarães, 2017. p. 191–216.
+- Link: https://www.academia.edu/36465603/Valdei_Araujo_O_Direito_%C3%A0_Hist%C3%B3ria_O_A_Historiador_a_como_Curador_a_de_uma_experi%C3%AAncia_hist%C3%B3rica_socialmente_distribu%C3%ADda_In_G%C3%A9ssica_Guimar%C3%A3es_Leonardo_Bruno_Rodrigo_Perez_Conversas_sobre_o_Brasil_ensaios_de_cr%C3%ADtica_hist%C3%B3rica_Rio_de_Janeiro_Autografia_2017_pp_191_216
+
 ## Atividade relacionada
 
 [Avaliação 2 – História Pública e intervenção historiográfica na Wikipédia](../avaliacoes/avaliacao-2-wikipedia.md)
