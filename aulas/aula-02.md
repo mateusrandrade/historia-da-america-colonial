@@ -8,6 +8,13 @@ Compreender a Conquista da América também como um processo de produção e dis
 GIUCCI, Guillermo. Introducción. In: GIUCCI, Guillermo. *La conquista de lo maravilloso*: el Nuevo Mundo. [S. l.]: Ediciones de Juan Darién, 1992. p. 5–16.
 - Link de acesso pelo e-mail de acesso institucional da UFJF: https://drive.google.com/file/d/1baQy3gmaZJq7VGdgd0bxzPtfcZpsrIKl/view?usp=drive_link
 
+## Bibliografia complementar
+VARELLA, Flávia Florentino; BONALDO, Rodrigo Bragio. Todos podem ser divulgadores?: Wikipédia e curadoria digital em Teoria da História. *Estudos Ibero-Americanos*, v. 47, n. 2, p. e38806, 31 ago. 2021. 
+- Link: https://doi.org/10.15448/1980-864X.2021.2.38806
+
+VARELLA, Flávia Florentino; BONALDO, Rodrigo Bragio. Negociando autoridades, construindo saberes: a historiografia digital e colaborativa no projeto Teoria da História na Wikipédia. *Revista Brasileira de História*, v. 40, n. 85, p. 147–170, dez. 2020. 
+- Link: https://doi.org/10.1590/1806-93472020v40n85-08
+
 ## Atividade relacionada
 
 [Avaliação 2 – História Pública e intervenção historiográfica na Wikipédia](../avaliacoes/avaliacao-2-wikipedia.md)
