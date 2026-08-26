@@ -18,6 +18,11 @@ VARELLA, Flávia Florentino; BONALDO, Rodrigo Bragio. Negociando autoridades, co
 ARAUJO, Valdei Lopes de. O DIREITO À HISTÓRIA: O(A) HISTORIADOR(A) COMO CURADOR(A) DE UMA EXPERIÊNCIA HISTÓRICA SOCIALMENTE DISTRIBUÍDA. In: *Conversas sobre o Brasil*. 1. ed. Salvador, BA: Géssica Guimarães, 2017. p. 191–216.
 - Link: https://www.academia.edu/36465603/Valdei_Araujo_O_Direito_%C3%A0_Hist%C3%B3ria_O_A_Historiador_a_como_Curador_a_de_uma_experi%C3%AAncia_hist%C3%B3rica_socialmente_distribu%C3%ADda_In_G%C3%A9ssica_Guimar%C3%A3es_Leonardo_Bruno_Rodrigo_Perez_Conversas_sobre_o_Brasil_ensaios_de_cr%C3%ADtica_hist%C3%B3rica_Rio_de_Janeiro_Autografia_2017_pp_191_216
 
+
+### Referências Bibliográficas
+ESTEVAM DE OLIVEIRA FERNANDES, Luiz; DE SOUZA GOMES, Wederson. Crônicas de El Dorado: uma análise dos relatos dos cronistas espanhóis sobre uma terra de riquezas fabulosas na América do Sul (1536-1542). Mosaico, v. 7, n. 10, p. 77–95, 20 nov. 2016. 
+- Link: https://doi.org/10.12660/rm.v7n10.2016.64728
+
 ## Atividade relacionada
 
 [Avaliação 2 – História Pública e intervenção historiográfica na Wikipédia](../avaliacoes/avaliacao-2-wikipedia.md)
