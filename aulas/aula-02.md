@@ -20,11 +20,14 @@ ARAUJO, Valdei Lopes de. O DIREITO À HISTÓRIA: O(A) HISTORIADOR(A) COMO CURADO
 
 
 ### Referências Bibliográficas
+CARACCIOLI, Mauro Jose. *Writing the New World*: The Politics of Natural History in the Early Spanish Empire. University of Florida Press, 2021. 
+- Link: http://www.jstor.org/stable/j.ctv1gt9419
+
 ESTEVAM DE OLIVEIRA FERNANDES, Luiz; DE SOUZA GOMES, Wederson. Crônicas de El Dorado: uma análise dos relatos dos cronistas espanhóis sobre uma terra de riquezas fabulosas na América do Sul (1536-1542). Mosaico, v. 7, n. 10, p. 77–95, 20 nov. 2016. 
 - Link: https://doi.org/10.12660/rm.v7n10.2016.64728
 
-CARACCIOLI, Mauro Jose. *Writing the New World*: The Politics of Natural History in the Early Spanish Empire. University of Florida Press, 2021. 
-- Link: http://www.jstor.org/stable/j.ctv1gt9419
+ROSENZWEIG, R. Can History Be Open Source? Wikipedia and the Future of the Past. *Journal of American History*, v. 93, n. 1, p. 117–146, 1 jun. 2006. 
+-Link: https://doi.org/10.2307/4486062
 
 ## Atividade relacionada
 
