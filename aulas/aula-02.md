@@ -23,6 +23,9 @@ ARAUJO, Valdei Lopes de. O DIREITO À HISTÓRIA: O(A) HISTORIADOR(A) COMO CURADO
 ESTEVAM DE OLIVEIRA FERNANDES, Luiz; DE SOUZA GOMES, Wederson. Crônicas de El Dorado: uma análise dos relatos dos cronistas espanhóis sobre uma terra de riquezas fabulosas na América do Sul (1536-1542). Mosaico, v. 7, n. 10, p. 77–95, 20 nov. 2016. 
 - Link: https://doi.org/10.12660/rm.v7n10.2016.64728
 
+CARACCIOLI, Mauro Jose. *Writing the New World*: The Politics of Natural History in the Early Spanish Empire. University of Florida Press, 2021. 
+- Link: http://www.jstor.org/stable/j.ctv1gt9419
+
 ## Atividade relacionada
 
 [Avaliação 2 – História Pública e intervenção historiográfica na Wikipédia](../avaliacoes/avaliacao-2-wikipedia.md)
