@@ -29,11 +29,11 @@ As leituras indicadas em **"Para começar a pesquisa"** são pontos de partida, 
 
 | Verbete | Situação na Wikipédia em português | Verbetes de partida | Operação sugerida | Dificuldade |
 | --- | --- | --- | --- | --- |
-| **Chaupiñamca** | 🔴 Não existe | [ES](https://es.wikipedia.org/wiki/Chaupi%C3%B1amca) · [EN: contexto — Huarochirí Manuscript](https://en.wikipedia.org/wiki/Huarochir%C3%AD_Manuscript) | Criar a partir dos conteúdos existentes e contextualizar corpo, ritual, fertilidade, parentesco e território | 🟡 Média |
-| **Cavillaca / Cahuillaca** | 🔴 Não existe | [ES](https://es.wikipedia.org/wiki/Cahuillaca) · [EN: contexto — Huarochirí Manuscript](https://en.wikipedia.org/wiki/Huarochir%C3%AD_Manuscript) | Criar, comparar grafias e versões e contextualizar a narrativa | 🟡 Média |
-| **Urpayhuáchac** | 🔴 Não existe | [ES](https://es.wikipedia.org/wiki/Urpayhu%C3%A1chac) · [EN: contexto — Pacha Kamaq](https://en.wikipedia.org/wiki/Pacha_Kamaq) | Criar e reconstruir criticamente suas relações com parentesco, mar, aves, peixes e paisagem costeira | 🟡 Média |
-| **Tunupa** | 🟡 Existe em português sobretudo como vulcão | [PT: vulcão/homônimo](https://pt.wikipedia.org/wiki/Tunupa) · [ES: entidade](https://es.wikipedia.org/wiki/Tunupa) · [EN: vulcão + seção Mythology](https://en.wikipedia.org/wiki/Tunupa) | Criar/desambiguar a entidade e discutir a circulação e cristianização das tradições | 🟡 Média |
-| **Amaru (mitologia)** | 🔴 Não existe como verbete mitológico em português | [PT: homônimo — comuna](https://pt.wikipedia.org/wiki/Amaru) · [ES](https://es.wikipedia.org/wiki/Amaru_(mitolog%C3%ADa)) · [EN](https://en.wikipedia.org/wiki/Amaru_(mythology)) | Criar/desambiguar e discutir criticamente a tradução como serpente, dragão ou entidade mitológica | 🟡/🔴 Média--alta |
+| **Chaupiñamca** | 🔴 Não existe como verbete autônomo | [ES](https://es.wikipedia.org/wiki/Chaupi%C3%B1amca) · [EN: contexto — Huarochirí Manuscript](https://en.wikipedia.org/wiki/Huarochir%C3%AD_Manuscript) | Criar a partir dos conteúdos existentes e contextualizar corpo, ritual, fertilidade, parentesco e território | 🟡 Média |
+| **Cavillaca / Cahuillaca** | 🔴 Não existe como verbete autônomo | [ES](https://es.wikipedia.org/wiki/Cahuillaca) · [EN: contexto — Huarochirí Manuscript](https://en.wikipedia.org/wiki/Huarochir%C3%AD_Manuscript) | Criar, comparar grafias e versões e contextualizar a narrativa | 🟡 Média |
+| **Urpayhuáchac** | 🔴 Não existe como verbete autônomo | [ES](https://es.wikipedia.org/wiki/Urpayhu%C3%A1chac) · [EN: contexto — Pacha Kamaq](https://en.wikipedia.org/wiki/Pacha_Kamaq) | Criar e reconstruir criticamente suas relações com parentesco, mar, aves, peixes e paisagem costeira | 🟡 Média |
+| **Tunupa** | 🟡 Não existe como verbete autônomo da entidade; há cobertura parcial/homônimo | [PT: vulcão/homônimo](https://pt.wikipedia.org/wiki/Tunupa) · [ES: entidade](https://es.wikipedia.org/wiki/Tunupa) · [EN: vulcão + seção Mythology](https://en.wikipedia.org/wiki/Tunupa) | Criar verbete da entidade + desambiguar + discutir circulação e cristianização das tradições | 🟡 Média |
+| **Amaru (mitologia)** | 🟡 Não existe como verbete autônomo; há homônimo | [PT: homônimo — comuna](https://pt.wikipedia.org/wiki/Amaru) · [ES](https://es.wikipedia.org/wiki/Amaru_(mitolog%C3%ADa)) · [EN](https://en.wikipedia.org/wiki/Amaru_(mythology)) | Criar **Amaru (mitologia)** + desambiguar + discutir criticamente a tradução como serpente, dragão ou entidade mitológica | 🟡/🔴 Média--alta |
 
 > **Convenção dos links:** **PT/ES/EN** indica um verbete diretamente correspondente; **contexto** indica que o tema aparece dentro de um verbete mais amplo; **homônimo** indica que o título está ocupado por outro objeto. Qualificadores como **entidade** ou **vulcão + seção Mythology** sinalizam diferenças importantes de escopo entre as edições linguísticas.
 
@@ -71,6 +71,7 @@ Você trabalhará a partir de um ou mais verbetes estrangeiros, comparando-os en
 → Chaupiñamca  
 → Cavillaca / Cahuillaca  
 → Urpayhuáchac  
+→ Tunupa  
 → Amaru
 
 ### Resolver um problema de desambiguação ou cobertura inadequada
