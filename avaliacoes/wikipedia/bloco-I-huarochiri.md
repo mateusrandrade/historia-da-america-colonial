@@ -30,10 +30,12 @@ As leituras indicadas em **"Para começar a pesquisa"** são pontos de partida, 
 | Verbete | Situação na Wikipédia em português | Verbetes de partida | Operação sugerida | Dificuldade |
 | --- | --- | --- | --- | --- |
 | **Manuscrito de Huarochirí** | 🔴 Não existe | [ES](https://es.wikipedia.org/wiki/Manuscrito_de_Huarochir%C3%AD) · [EN](https://en.wikipedia.org/wiki/Huarochir%C3%AD_Manuscript) | Criar verbete histórico-documental a partir das versões estrangeiras, confrontando-as com a bibliografia | 🔴 Alta |
-| **Cuniraya Huiracocha** | 🔴 Não existe | [ES](https://es.wikipedia.org/wiki/Cuniraya_Huiracocha) · [EN: Inca mythology](https://en.wikipedia.org/wiki/Inca_mythology) | Criar a partir dos conteúdos existentes, comparar interpretações e contextualizar | 🟡/🔴 Média--alta |
-| **Pariacaca** | 🔴 Não existe | [ES](https://es.wikipedia.org/wiki/Pariacaca_(dios)) · [EN: Huarochirí Manuscript](https://en.wikipedia.org/wiki/Huarochir%C3%AD_Manuscript) | Criar e revisar criticamente categorias como "deus", paisagem e território | 🟡 Média |
-| **Huallallo Carhuincho** | 🔴 Não existe | [ES](https://es.wikipedia.org/wiki/Huallallo_Carhuincho) · [EN: Huarochirí Manuscript](https://en.wikipedia.org/wiki/Huarochir%C3%AD_Manuscript) | Criar e contextualizar entidade, espaço e ciclo narrativo | 🟡 Média |
-| **Huatiacuri** | 🟡 Cobertura em português inadequada/insuficiente | [ES](https://es.wikipedia.org/wiki/Huatiacuri) · [EN: Huarochirí Manuscript](https://en.wikipedia.org/wiki/Huarochir%C3%AD_Manuscript) | Criar/corrigir a cobertura e contextualizar o personagem | 🟡 Média |
+| **Cuniraya Huiracocha** | 🔴 Não existe | [ES](https://es.wikipedia.org/wiki/Cuniraya_Huiracocha) · [EN: contexto — Huarochirí Manuscript](https://en.wikipedia.org/wiki/Huarochir%C3%AD_Manuscript) | Criar a partir dos conteúdos existentes, comparar interpretações e contextualizar | 🟡/🔴 Média--alta |
+| **Pariacaca** | 🔴 Não existe | [ES](https://es.wikipedia.org/wiki/Pariacaca_(dios)) · [EN](https://en.wikipedia.org/wiki/Pariacaca_(god)) | Criar e revisar criticamente categorias como "deus", paisagem e território | 🟡 Média |
+| **Huallallo Carhuincho** | 🔴 Não existe | [ES](https://es.wikipedia.org/wiki/Huallallo_Carhuincho) · [EN: contexto — Huarochirí Manuscript](https://en.wikipedia.org/wiki/Huarochir%C3%AD_Manuscript) | Criar e contextualizar entidade, espaço e ciclo narrativo | 🟡 Média |
+| **Huatiacuri** | 🟡 Cobertura em português inadequada/insuficiente | [ES: contexto — Manuscrito de Huarochirí](https://es.wikipedia.org/wiki/Manuscrito_de_Huarochir%C3%AD) · [EN: contexto — Huarochirí Manuscript](https://en.wikipedia.org/wiki/Huarochir%C3%AD_Manuscript) | Criar/corrigir a cobertura e contextualizar o personagem | 🟡 Média |
+
+> **Convenção dos links:** **ES/EN** indica um verbete diretamente correspondente; **contexto** indica que o personagem ou tema aparece dentro de um verbete mais amplo e que esse link deve ser usado como ponto de partida, não como equivalente exato.
 
 > **Importante:** "Criar" não significa escrever sem referências anteriores. Nos casos de verbetes inexistentes em português, a atividade começa pela comparação das Wikipédias estrangeiras indicadas e continua com sua verificação e problematização por meio da bibliografia acadêmica.
 
